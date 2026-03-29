@@ -1,0 +1,25 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Env files - never commit secrets
+.env
+.env.local
+.env.production
+
+# EAS
+google-service-account.json
+
+# macOS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
